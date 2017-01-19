@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8dfefb-be72-43ce-8488-66c251774f67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/sets/no-idea.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/sets/py-set-add.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,11 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="no-idea.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="no-idea.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/sets/no-idea.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="py-set-add.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/sets/py-set-add.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -129,6 +139,7 @@
         <option value="$PROJECT_DIR$/python/sets/py-introduction-to-sets.py" />
         <option value="$PROJECT_DIR$/python/sets/symmetric-difference.py" />
         <option value="$PROJECT_DIR$/python/sets/no-idea.py" />
+        <option value="$PROJECT_DIR$/python/sets/py-set-add.py" />
       </list>
     </option>
   </component>
@@ -651,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484805020538</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="https://www.hackerrank.com/challenges/no-idea">
+      <created>1484805479331</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1484805479331</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -700,7 +718,8 @@
     <MESSAGE value="https://www.hackerrank.com/challenges/save-the-prisoner" />
     <MESSAGE value="https://www.hackerrank.com/challenges/py-introduction-to-sets" />
     <MESSAGE value="https://www.hackerrank.com/challenges/symmetric-difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://www.hackerrank.com/challenges/symmetric-difference" />
+    <MESSAGE value="https://www.hackerrank.com/challenges/no-idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://www.hackerrank.com/challenges/no-idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -928,6 +947,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/py-set-add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
