@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8dfefb-be72-43ce-8488-66c251774f67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/sets/symmetric-difference.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/sets/no-idea.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/hackerrank$insert_double.coverage" NAME="insert-double Coverage Results" MODIFIED="1482514942235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
+    <SUITE FILE_PATH="coverage/hackerrank$no_idea.coverage" NAME="no-idea Coverage Results" MODIFIED="1484805313738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
     <SUITE FILE_PATH="coverage/hackerrank$merge.coverage" NAME="merge Coverage Results" MODIFIED="1482513093979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
     <SUITE FILE_PATH="coverage/hackerrank$symmetric_difference.coverage" NAME="symmetric-difference Coverage Results" MODIFIED="1484804983322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
     <SUITE FILE_PATH="coverage/hackerrank$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1484662575589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
@@ -57,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="symmetric-difference.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="symmetric-difference.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/sets/symmetric-difference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="18">
+              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no-idea.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/sets/no-idea.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -75,6 +86,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>raw_input</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>input</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -109,6 +128,7 @@
         <option value="$PROJECT_DIR$/algorithms/implementation/save-the-prisoner.py" />
         <option value="$PROJECT_DIR$/python/sets/py-introduction-to-sets.py" />
         <option value="$PROJECT_DIR$/python/sets/symmetric-difference.py" />
+        <option value="$PROJECT_DIR$/python/sets/no-idea.py" />
       </list>
     </option>
   </component>
@@ -197,25 +217,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.symmetric-difference">
-    <configuration default="false" name="bon-appetit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/implementation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/bon-appetit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.no-idea">
     <configuration default="false" name="beautiful-days-at-the-movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,6 +286,24 @@
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/sets/symmetric-difference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="no-idea" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/sets/no-idea.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -503,19 +523,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.bon-appetit" />
-      <item index="1" class="java.lang.String" itemvalue="Python.beautiful-days-at-the-movies" />
-      <item index="2" class="java.lang.String" itemvalue="Python.strange-advertising" />
-      <item index="3" class="java.lang.String" itemvalue="Python.save-the-prisoner" />
-      <item index="4" class="java.lang.String" itemvalue="Python.symmetric-difference" />
+      <item index="0" class="java.lang.String" itemvalue="Python.beautiful-days-at-the-movies" />
+      <item index="1" class="java.lang.String" itemvalue="Python.strange-advertising" />
+      <item index="2" class="java.lang.String" itemvalue="Python.save-the-prisoner" />
+      <item index="3" class="java.lang.String" itemvalue="Python.symmetric-difference" />
+      <item index="4" class="java.lang.String" itemvalue="Python.no-idea" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.symmetric-difference" />
-        <item index="1" class="java.lang.String" itemvalue="Python.save-the-prisoner" />
-        <item index="2" class="java.lang.String" itemvalue="Python.strange-advertising" />
-        <item index="3" class="java.lang.String" itemvalue="Python.beautiful-days-at-the-movies" />
-        <item index="4" class="java.lang.String" itemvalue="Python.bon-appetit" />
+        <item index="0" class="java.lang.String" itemvalue="Python.no-idea" />
+        <item index="1" class="java.lang.String" itemvalue="Python.symmetric-difference" />
+        <item index="2" class="java.lang.String" itemvalue="Python.save-the-prisoner" />
+        <item index="3" class="java.lang.String" itemvalue="Python.strange-advertising" />
+        <item index="4" class="java.lang.String" itemvalue="Python.beautiful-days-at-the-movies" />
       </list>
     </recent_temporary>
   </component>
@@ -624,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484804743635</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="https://www.hackerrank.com/challenges/symmetric-difference">
+      <created>1484805020538</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1484805020538</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -672,7 +699,8 @@
     <MESSAGE value="https://www.hackerrank.com/challenges/strange-advertising" />
     <MESSAGE value="https://www.hackerrank.com/challenges/save-the-prisoner" />
     <MESSAGE value="https://www.hackerrank.com/challenges/py-introduction-to-sets" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://www.hackerrank.com/challenges/py-introduction-to-sets" />
+    <MESSAGE value="https://www.hackerrank.com/challenges/symmetric-difference" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://www.hackerrank.com/challenges/symmetric-difference" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -890,8 +918,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python/sets/symmetric-difference.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="18">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/sets/no-idea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="16" />
           <folding />
         </state>
       </provider>
