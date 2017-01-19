@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8dfefb-be72-43ce-8488-66c251774f67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/implementation/bon-appetit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +19,7 @@
     <SUITE FILE_PATH="coverage/hackerrank$two_sets.coverage" NAME="two-sets Coverage Results" MODIFIED="1484664028395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$camelCase.coverage" NAME="camelCase Coverage Results" MODIFIED="1484665010777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$reduced_string.coverage" NAME="reduced-string Coverage Results" MODIFIED="1484666126195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/strings" />
+    <SUITE FILE_PATH="coverage/hackerrank$beautiful_days_at_the_movies.coverage" NAME="beautiful-days-at-the-movies Coverage Results" MODIFIED="1484802925622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$maximum_element.coverage" NAME="maximum-element Coverage Results" MODIFIED="1482516505533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/stacks" />
     <SUITE FILE_PATH="coverage/hackerrank$node_value.coverage" NAME="node_value Coverage Results" MODIFIED="1482513535035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
     <SUITE FILE_PATH="coverage/hackerrank$delete_duplicate.coverage" NAME="delete-duplicate Coverage Results" MODIFIED="1482514579628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
@@ -33,21 +34,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sock-merchant.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/implementation/sock-merchant.py">
+      <file leaf-file-name="beautiful-days-at-the-movies.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bon-appetit.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/implementation/bon-appetit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,6 +81,7 @@
         <option value="$PROJECT_DIR$/algorithms/strings/reduced-string.py" />
         <option value="$PROJECT_DIR$/algorithms/implementation/sock-merchant.py" />
         <option value="$PROJECT_DIR$/algorithms/implementation/bon-appetit.py" />
+        <option value="$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py" />
       </list>
     </option>
   </component>
@@ -178,25 +170,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.bon-appetit">
-    <configuration default="false" name="divisible-sum-pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/implementation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/divisible-sum-pairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.beautiful-days-at-the-movies">
     <configuration default="false" name="camelCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,6 +239,24 @@
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/bon-appetit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="beautiful-days-at-the-movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -484,19 +476,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.divisible-sum-pairs" />
-      <item index="1" class="java.lang.String" itemvalue="Python.camelCase" />
-      <item index="2" class="java.lang.String" itemvalue="Python.reduced-string" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sock-merchant" />
-      <item index="4" class="java.lang.String" itemvalue="Python.bon-appetit" />
+      <item index="0" class="java.lang.String" itemvalue="Python.camelCase" />
+      <item index="1" class="java.lang.String" itemvalue="Python.reduced-string" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sock-merchant" />
+      <item index="3" class="java.lang.String" itemvalue="Python.bon-appetit" />
+      <item index="4" class="java.lang.String" itemvalue="Python.beautiful-days-at-the-movies" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.bon-appetit" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sock-merchant" />
-        <item index="2" class="java.lang.String" itemvalue="Python.reduced-string" />
-        <item index="3" class="java.lang.String" itemvalue="Python.camelCase" />
-        <item index="4" class="java.lang.String" itemvalue="Python.divisible-sum-pairs" />
+        <item index="0" class="java.lang.String" itemvalue="Python.beautiful-days-at-the-movies" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bon-appetit" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sock-merchant" />
+        <item index="3" class="java.lang.String" itemvalue="Python.reduced-string" />
+        <item index="4" class="java.lang.String" itemvalue="Python.camelCase" />
       </list>
     </recent_temporary>
   </component>
@@ -570,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484801991469</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Bon Appetite">
+      <created>1484802649636</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1484802649636</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -613,7 +612,8 @@
     <MESSAGE value="CamelCase" />
     <MESSAGE value="https://www.hackerrank.com/challenges/reduced-string" />
     <MESSAGE value="https://www.hackerrank.com/challenges/sock-merchant" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://www.hackerrank.com/challenges/sock-merchant" />
+    <MESSAGE value="Bon Appetite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bon Appetite" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -793,6 +793,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
