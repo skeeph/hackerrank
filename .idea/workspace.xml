@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="3f8dfefb-be72-43ce-8488-66c251774f67" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contests/world-codesprint-9/queens-attack-2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/maths/python-integers-come-in-all-sizes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/maths/python-power-mod-power.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/maths/triangle-quest-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/itertools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/itertools/compress-the-string.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/itertools/iterables-and-iterators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/itertools/itertools-combinations-with-replacement.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/itertools/itertools-combinations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/itertools/itertools-product.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/itertools/permutations.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +22,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/hackerrank$python_integers_come_in_all_sizes.coverage" NAME="python-integers-come-in-all-sizes Coverage Results" MODIFIED="1485760579193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/maths" />
     <SUITE FILE_PATH="coverage/hackerrank$no_idea.coverage" NAME="no-idea Coverage Results" MODIFIED="1484805313738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
+    <SUITE FILE_PATH="coverage/hackerrank$itertools_combinations_with_replacement.coverage" NAME="itertools-combinations-with-replacement Coverage Results" MODIFIED="1485761398006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
     <SUITE FILE_PATH="coverage/hackerrank$python_mutations.coverage" NAME="python-mutations Coverage Results" MODIFIED="1485756531397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$text_wrap.coverage" NAME="text-wrap Coverage Results" MODIFIED="1485757534370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$weighted_uniform_string.coverage" NAME="weighted-uniform-string Coverage Results" MODIFIED="1485617279299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contests/world-codesprint-9" />
@@ -30,6 +35,7 @@
     <SUITE FILE_PATH="coverage/hackerrank$delete_duplicate.coverage" NAME="delete-duplicate Coverage Results" MODIFIED="1482514579628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
     <SUITE FILE_PATH="coverage/hackerrank$divisible_sum_pairs.coverage" NAME="divisible-sum-pairs Coverage Results" MODIFIED="1484664311906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$py_set_mutations.coverage" NAME="py-set-mutations Coverage Results" MODIFIED="1485020127298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
+    <SUITE FILE_PATH="coverage/hackerrank$itertools_product.coverage" NAME="itertools-product Coverage Results" MODIFIED="1485760852383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
     <SUITE FILE_PATH="coverage/hackerrank$save_the_prisoner.coverage" NAME="save-the-prisoner Coverage Results" MODIFIED="1484804887704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$swap_case.coverage" NAME="swap-case Coverage Results" MODIFIED="1485756094137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$capitalize.coverage" NAME="capitalize Coverage Results" MODIFIED="1485759567834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
@@ -42,8 +48,11 @@
     <SUITE FILE_PATH="coverage/hackerrank$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1484662575589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$two_sets.coverage" NAME="two-sets Coverage Results" MODIFIED="1484664028395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$beautiful_days_at_the_movies.coverage" NAME="beautiful-days-at-the-movies Coverage Results" MODIFIED="1484802925622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
+    <SUITE FILE_PATH="coverage/hackerrank$itertools_combinations.coverage" NAME="itertools-combinations Coverage Results" MODIFIED="1485761333521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
+    <SUITE FILE_PATH="coverage/hackerrank$compress_the_string.coverage" NAME="compress-the-string Coverage Results" MODIFIED="1485761729871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
     <SUITE FILE_PATH="coverage/hackerrank$maximum_element.coverage" NAME="maximum-element Coverage Results" MODIFIED="1482516505533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/stacks" />
     <SUITE FILE_PATH="coverage/hackerrank$triangle_quest_2.coverage" NAME="triangle-quest-2 Coverage Results" MODIFIED="1485760111843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/maths" />
+    <SUITE FILE_PATH="coverage/hackerrank$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1485761145947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
     <SUITE FILE_PATH="coverage/hackerrank$find_a_string.coverage" NAME="find-a-string Coverage Results" MODIFIED="1485756926405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$py_check_subset.coverage" NAME="py-check-subset Coverage Results" MODIFIED="1485020792562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
     <SUITE FILE_PATH="coverage/hackerrank$sock_merchant.coverage" NAME="sock-merchant Coverage Results" MODIFIED="1484801947516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
@@ -59,31 +68,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="triangle-quest-2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/maths/triangle-quest-2.py">
+      <file leaf-file-name="iterables-and-iterators.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/itertools/iterables-and-iterators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="python-power-mod-power.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/maths/python-power-mod-power.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="python-integers-come-in-all-sizes.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/maths/python-integers-come-in-all-sizes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="234">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -117,12 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datastructures/linkedlists/node_value.py" />
-        <option value="$PROJECT_DIR$/datastructures/linkedlists/delete-duplicate.py" />
-        <option value="$PROJECT_DIR$/datastructures/linkedlists/detect cycle.py" />
-        <option value="$PROJECT_DIR$/datastructures/linkedlists/merge_point.py" />
-        <option value="$PROJECT_DIR$/datastructures/linkedlists/insert-double.py" />
-        <option value="$PROJECT_DIR$/datastructures/linkedlists/reverse-double.py" />
         <option value="$PROJECT_DIR$/datastructures/stacks/maximum-element.py" />
         <option value="$PROJECT_DIR$/algorithms/implementation/pdf.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -168,6 +151,12 @@
         <option value="$PROJECT_DIR$/python/maths/triangle-quest-2.py" />
         <option value="$PROJECT_DIR$/python/maths/python-power-mod-power.py" />
         <option value="$PROJECT_DIR$/python/maths/python-integers-come-in-all-sizes.py" />
+        <option value="$PROJECT_DIR$/python/itertools/itertools-product.py" />
+        <option value="$PROJECT_DIR$/python/itertools/permutations.py" />
+        <option value="$PROJECT_DIR$/python/itertools/itertools-combinations.py" />
+        <option value="$PROJECT_DIR$/python/itertools/itertools-combinations-with-replacement.py" />
+        <option value="$PROJECT_DIR$/python/itertools/compress-the-string.py" />
+        <option value="$PROJECT_DIR$/python/itertools/iterables-and-iterators.py" />
       </list>
     </option>
   </component>
@@ -241,7 +230,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="maths" />
+              <option name="myItemId" value="itertools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,93 +245,93 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.python-integers-come-in-all-sizes">
-    <configuration default="false" name="alphabet-rangoli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.compress-the-string">
+    <configuration default="false" name="itertools-product" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/strings/alphabet-rangoli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/itertools/itertools-product.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/strings/capitalize.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/itertools/permutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="triangle-quest-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="itertools-combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/maths" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/maths/triangle-quest-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/itertools/itertools-combinations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="python-power-mod-power" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="itertools-combinations-with-replacement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/maths" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/maths/python-power-mod-power.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/itertools/itertools-combinations-with-replacement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="python-integers-come-in-all-sizes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="compress-the-string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/maths" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/itertools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/maths/python-integers-come-in-all-sizes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/itertools/compress-the-string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -562,19 +551,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.alphabet-rangoli" />
-      <item index="1" class="java.lang.String" itemvalue="Python.capitalize" />
-      <item index="2" class="java.lang.String" itemvalue="Python.triangle-quest-2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.python-power-mod-power" />
-      <item index="4" class="java.lang.String" itemvalue="Python.python-integers-come-in-all-sizes" />
+      <item index="0" class="java.lang.String" itemvalue="Python.itertools-product" />
+      <item index="1" class="java.lang.String" itemvalue="Python.permutations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.itertools-combinations" />
+      <item index="3" class="java.lang.String" itemvalue="Python.itertools-combinations-with-replacement" />
+      <item index="4" class="java.lang.String" itemvalue="Python.compress-the-string" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.python-integers-come-in-all-sizes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.python-power-mod-power" />
-        <item index="2" class="java.lang.String" itemvalue="Python.triangle-quest-2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.capitalize" />
-        <item index="4" class="java.lang.String" itemvalue="Python.alphabet-rangoli" />
+        <item index="0" class="java.lang.String" itemvalue="Python.compress-the-string" />
+        <item index="1" class="java.lang.String" itemvalue="Python.itertools-combinations-with-replacement" />
+        <item index="2" class="java.lang.String" itemvalue="Python.itertools-combinations" />
+        <item index="3" class="java.lang.String" itemvalue="Python.permutations" />
+        <item index="4" class="java.lang.String" itemvalue="Python.itertools-product" />
       </list>
     </recent_temporary>
   </component>
@@ -753,7 +742,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485759806211</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Python math">
+      <created>1485760644738</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1485760644738</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -811,7 +807,8 @@
     <MESSAGE value="https://www.hackerrank.com/contests/world-codesprint-9/challenges/grading/" />
     <MESSAGE value="https://www.hackerrank.com/contests/world-codesprint-9/challenges/weighted-uniform-string" />
     <MESSAGE value="Python strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python strings" />
+    <MESSAGE value="Python math" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python math" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -836,58 +833,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datastructures/linkedlists/insert-double.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="44" selection-end-column="17" />
-          <folding>
-            <element signature="e#370#464#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/linkedlists/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/stacks/maximum-element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="147" column="5" lean-forward="true" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/implementation/pdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/implementation/kangaroo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="214" column="4" lean-forward="false" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/lib/python3.5/fractions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1191,10 +1136,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/maths/triangle-quest-2.py">
+    <entry file="file://$PROJECT_DIR$/python/maths/python-integers-come-in-all-sizes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1207,10 +1152,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/maths/python-integers-come-in-all-sizes.py">
+    <entry file="file://$PROJECT_DIR$/python/maths/triangle-quest-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/itertools/itertools-combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/itertools/itertools-combinations-with-replacement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+          <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/itertools/permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/itertools/itertools-product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="395" column="8" lean-forward="false" selection-start-line="395" selection-start-column="8" selection-end-line="395" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/itertools/compress-the-string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="64" lean-forward="true" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/itertools/iterables-and-iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
