@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8dfefb-be72-43ce-8488-66c251774f67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/errors-exceptions/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/classes/class-1-dealing-with-complex-numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/classes/class-2-find-the-torsional-angle.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +19,7 @@
     <SUITE FILE_PATH="coverage/hackerrank$itertools_combinations_with_replacement.coverage" NAME="itertools-combinations-with-replacement Coverage Results" MODIFIED="1485761398006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
     <SUITE FILE_PATH="coverage/hackerrank$python_mutations.coverage" NAME="python-mutations Coverage Results" MODIFIED="1485756531397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$grading.coverage" NAME="grading Coverage Results" MODIFIED="1485613600136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contests/world-codesprint-9" />
+    <SUITE FILE_PATH="coverage/hackerrank$class_1_dealing_with_complex_numbers.coverage" NAME="class-1-dealing-with-complex-numbers Coverage Results" MODIFIED="1485852453243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/classes" />
     <SUITE FILE_PATH="coverage/hackerrank$reduced_string.coverage" NAME="reduced-string Coverage Results" MODIFIED="1484666126195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$alphabet_rangoli.coverage" NAME="alphabet-rangoli Coverage Results" MODIFIED="1485759352869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$strange_advertising.coverage" NAME="strange-advertising Coverage Results" MODIFIED="1484803435020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
@@ -70,28 +71,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exceptions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/errors-exceptions/exceptions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="incorrect-regex.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py" />
-        <option value="$PROJECT_DIR$/algorithms/implementation/strange-advertising.py" />
         <option value="$PROJECT_DIR$/algorithms/implementation/save-the-prisoner.py" />
         <option value="$PROJECT_DIR$/python/sets/py-introduction-to-sets.py" />
         <option value="$PROJECT_DIR$/python/sets/symmetric-difference.py" />
@@ -170,6 +148,8 @@
         <option value="$PROJECT_DIR$/python/collections/word-order.py" />
         <option value="$PROJECT_DIR$/python/errors-exceptions/exceptions.py" />
         <option value="$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py" />
+        <option value="$PROJECT_DIR$/python/classes/class-1-dealing-with-complex-numbers.py" />
+        <option value="$PROJECT_DIR$/python/classes/class-2-find-the-torsional-angle.py" />
       </list>
     </option>
   </component>
@@ -242,7 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="errors-exceptions" />
+              <option name="myItemId" value="classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,25 +238,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.incorrect-regex">
-    <configuration default="false" name="py-collections-namedtuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/collections" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/collections/py-collections-namedtuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.class-1-dealing-with-complex-numbers">
     <configuration default="false" name="most-commons" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,6 +307,24 @@
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="class-1-dealing-with-complex-numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/classes/class-1-dealing-with-complex-numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -564,19 +544,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.py-collections-namedtuple" />
-      <item index="1" class="java.lang.String" itemvalue="Python.most-commons" />
-      <item index="2" class="java.lang.String" itemvalue="Python.word-order" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exceptions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.incorrect-regex" />
+      <item index="0" class="java.lang.String" itemvalue="Python.most-commons" />
+      <item index="1" class="java.lang.String" itemvalue="Python.word-order" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exceptions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.incorrect-regex" />
+      <item index="4" class="java.lang.String" itemvalue="Python.class-1-dealing-with-complex-numbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.incorrect-regex" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exceptions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.word-order" />
-        <item index="3" class="java.lang.String" itemvalue="Python.most-commons" />
-        <item index="4" class="java.lang.String" itemvalue="Python.py-collections-namedtuple" />
+        <item index="0" class="java.lang.String" itemvalue="Python.class-1-dealing-with-complex-numbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.incorrect-regex" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exceptions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.word-order" />
+        <item index="4" class="java.lang.String" itemvalue="Python.most-commons" />
       </list>
     </recent_temporary>
   </component>
@@ -783,12 +763,19 @@
       <option name="project" value="LOCAL" />
       <updated>1485851496523</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Exceptions">
+      <created>1485851961846</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1485851961846</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -798,7 +785,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917318" sideWeight="0.4956076" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -819,7 +806,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://www.hackerrank.com/challenges/kangaroo&#10;" />
     <MESSAGE value="https://www.hackerrank.com/challenges/between-two-sets" />
     <MESSAGE value="https://www.hackerrank.com/challenges/divisible-sum-pairs" />
     <MESSAGE value="CamelCase" />
@@ -844,7 +830,8 @@
     <MESSAGE value="Iterators" />
     <MESSAGE value="Date and timeq" />
     <MESSAGE value="Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
+    <MESSAGE value="Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -869,20 +856,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/implementation/save-the-prisoner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/sets/py-introduction-to-sets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/sets/symmetric-difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -1233,6 +1206,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/classes/class-2-find-the-torsional-angle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="24" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/classes/class-1-dealing-with-complex-numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="26" selection-end-column="74" />
           <folding />
         </state>
       </provider>
