@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8dfefb-be72-43ce-8488-66c251774f67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/collections/collections-counter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/collections/defaultdict-tutorial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/collections/most-commons.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/collections/py-collections-namedtuple.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/collections/py-collections-ordereddict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/collections/word-order.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/errors-exceptions/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,52 +16,54 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/hackerrank$defaultdict_tutorial.coverage" NAME="defaultdict-tutorial Coverage Results" MODIFIED="1485849337055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/collections" />
     <SUITE FILE_PATH="coverage/hackerrank$python_integers_come_in_all_sizes.coverage" NAME="python-integers-come-in-all-sizes Coverage Results" MODIFIED="1485760579193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/maths" />
-    <SUITE FILE_PATH="coverage/hackerrank$word_order.coverage" NAME="word-order Coverage Results" MODIFIED="1485851178569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/collections" />
-    <SUITE FILE_PATH="coverage/hackerrank$no_idea.coverage" NAME="no-idea Coverage Results" MODIFIED="1484805313738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
     <SUITE FILE_PATH="coverage/hackerrank$itertools_combinations_with_replacement.coverage" NAME="itertools-combinations-with-replacement Coverage Results" MODIFIED="1485761398006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
     <SUITE FILE_PATH="coverage/hackerrank$python_mutations.coverage" NAME="python-mutations Coverage Results" MODIFIED="1485756531397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
-    <SUITE FILE_PATH="coverage/hackerrank$text_wrap.coverage" NAME="text-wrap Coverage Results" MODIFIED="1485757534370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
-    <SUITE FILE_PATH="coverage/hackerrank$weighted_uniform_string.coverage" NAME="weighted-uniform-string Coverage Results" MODIFIED="1485617279299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contests/world-codesprint-9" />
-    <SUITE FILE_PATH="coverage/hackerrank$camelCase.coverage" NAME="camelCase Coverage Results" MODIFIED="1484665010777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$grading.coverage" NAME="grading Coverage Results" MODIFIED="1485613600136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contests/world-codesprint-9" />
     <SUITE FILE_PATH="coverage/hackerrank$reduced_string.coverage" NAME="reduced-string Coverage Results" MODIFIED="1484666126195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$alphabet_rangoli.coverage" NAME="alphabet-rangoli Coverage Results" MODIFIED="1485759352869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$strange_advertising.coverage" NAME="strange-advertising Coverage Results" MODIFIED="1484803435020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
-    <SUITE FILE_PATH="coverage/hackerrank$node_value.coverage" NAME="node_value Coverage Results" MODIFIED="1482513535035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
     <SUITE FILE_PATH="coverage/hackerrank$delete_duplicate.coverage" NAME="delete-duplicate Coverage Results" MODIFIED="1482514579628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
-    <SUITE FILE_PATH="coverage/hackerrank$divisible_sum_pairs.coverage" NAME="divisible-sum-pairs Coverage Results" MODIFIED="1484664311906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$py_collections_namedtuple.coverage" NAME="py-collections-namedtuple Coverage Results" MODIFIED="1485850018238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/collections" />
-    <SUITE FILE_PATH="coverage/hackerrank$python_time_delta.coverage" NAME="python-time-delta Coverage Results" MODIFIED="1485762833165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/date-and-time" />
-    <SUITE FILE_PATH="coverage/hackerrank$py_set_mutations.coverage" NAME="py-set-mutations Coverage Results" MODIFIED="1485020127298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
     <SUITE FILE_PATH="coverage/hackerrank$itertools_product.coverage" NAME="itertools-product Coverage Results" MODIFIED="1485760852383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
     <SUITE FILE_PATH="coverage/hackerrank$save_the_prisoner.coverage" NAME="save-the-prisoner Coverage Results" MODIFIED="1484804887704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
-    <SUITE FILE_PATH="coverage/hackerrank$swap_case.coverage" NAME="swap-case Coverage Results" MODIFIED="1485756094137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$capitalize.coverage" NAME="capitalize Coverage Results" MODIFIED="1485759567834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
-    <SUITE FILE_PATH="coverage/hackerrank$collections_counter.coverage" NAME="collections-counter Coverage Results" MODIFIED="1485848990771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/collections" />
     <SUITE FILE_PATH="coverage/hackerrank$kangaroo.coverage" NAME="kangaroo Coverage Results" MODIFIED="1484663215896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
-    <SUITE FILE_PATH="coverage/hackerrank$queens_attack_2.coverage" NAME="queens-attack-2 Coverage Results" MODIFIED="1485620306356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contests/world-codesprint-9" />
     <SUITE FILE_PATH="coverage/hackerrank$insert_double.coverage" NAME="insert-double Coverage Results" MODIFIED="1482514942235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
-    <SUITE FILE_PATH="coverage/hackerrank$merge.coverage" NAME="merge Coverage Results" MODIFIED="1482513093979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
     <SUITE FILE_PATH="coverage/hackerrank$symmetric_difference.coverage" NAME="symmetric-difference Coverage Results" MODIFIED="1484804983322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
+    <SUITE FILE_PATH="coverage/hackerrank$beautiful_days_at_the_movies.coverage" NAME="beautiful-days-at-the-movies Coverage Results" MODIFIED="1484802925622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
+    <SUITE FILE_PATH="coverage/hackerrank$compress_the_string.coverage" NAME="compress-the-string Coverage Results" MODIFIED="1485761729871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
+    <SUITE FILE_PATH="coverage/hackerrank$maximum_element.coverage" NAME="maximum-element Coverage Results" MODIFIED="1482516505533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/stacks" />
+    <SUITE FILE_PATH="coverage/hackerrank$find_a_string.coverage" NAME="find-a-string Coverage Results" MODIFIED="1485756926405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
+    <SUITE FILE_PATH="coverage/hackerrank$py_check_subset.coverage" NAME="py-check-subset Coverage Results" MODIFIED="1485020792562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
+    <SUITE FILE_PATH="coverage/hackerrank$polar_coordinates__1_.coverage" NAME="polar-coordinates (1) Coverage Results" MODIFIED="1485021647939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/maths" />
+    <SUITE FILE_PATH="coverage/hackerrank$py_check_strict_superset.coverage" NAME="py-check-strict-superset Coverage Results" MODIFIED="1485020620992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
+    <SUITE FILE_PATH="coverage/hackerrank$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1485851773311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/errors-exceptions" />
+    <SUITE FILE_PATH="coverage/hackerrank$word_order.coverage" NAME="word-order Coverage Results" MODIFIED="1485851178569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/collections" />
+    <SUITE FILE_PATH="coverage/hackerrank$no_idea.coverage" NAME="no-idea Coverage Results" MODIFIED="1484805313738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
+    <SUITE FILE_PATH="coverage/hackerrank$text_wrap.coverage" NAME="text-wrap Coverage Results" MODIFIED="1485757534370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
+    <SUITE FILE_PATH="coverage/hackerrank$weighted_uniform_string.coverage" NAME="weighted-uniform-string Coverage Results" MODIFIED="1485617279299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contests/world-codesprint-9" />
+    <SUITE FILE_PATH="coverage/hackerrank$camelCase.coverage" NAME="camelCase Coverage Results" MODIFIED="1484665010777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/strings" />
+    <SUITE FILE_PATH="coverage/hackerrank$node_value.coverage" NAME="node_value Coverage Results" MODIFIED="1482513535035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
+    <SUITE FILE_PATH="coverage/hackerrank$divisible_sum_pairs.coverage" NAME="divisible-sum-pairs Coverage Results" MODIFIED="1484664311906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
+    <SUITE FILE_PATH="coverage/hackerrank$python_time_delta.coverage" NAME="python-time-delta Coverage Results" MODIFIED="1485762833165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/date-and-time" />
+    <SUITE FILE_PATH="coverage/hackerrank$py_set_mutations.coverage" NAME="py-set-mutations Coverage Results" MODIFIED="1485020127298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
+    <SUITE FILE_PATH="coverage/hackerrank$swap_case.coverage" NAME="swap-case Coverage Results" MODIFIED="1485756094137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
+    <SUITE FILE_PATH="coverage/hackerrank$collections_counter.coverage" NAME="collections-counter Coverage Results" MODIFIED="1485848990771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/collections" />
+    <SUITE FILE_PATH="coverage/hackerrank$queens_attack_2.coverage" NAME="queens-attack-2 Coverage Results" MODIFIED="1485620306356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contests/world-codesprint-9" />
+    <SUITE FILE_PATH="coverage/hackerrank$merge.coverage" NAME="merge Coverage Results" MODIFIED="1482513093979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/linkedlists" />
     <SUITE FILE_PATH="coverage/hackerrank$python_power_mod_power.coverage" NAME="python-power-mod-power Coverage Results" MODIFIED="1485760481646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/maths" />
     <SUITE FILE_PATH="coverage/hackerrank$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1484662575589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$two_sets.coverage" NAME="two-sets Coverage Results" MODIFIED="1484664028395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
-    <SUITE FILE_PATH="coverage/hackerrank$beautiful_days_at_the_movies.coverage" NAME="beautiful-days-at-the-movies Coverage Results" MODIFIED="1484802925622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$itertools_combinations.coverage" NAME="itertools-combinations Coverage Results" MODIFIED="1485761333521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
-    <SUITE FILE_PATH="coverage/hackerrank$compress_the_string.coverage" NAME="compress-the-string Coverage Results" MODIFIED="1485761729871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
-    <SUITE FILE_PATH="coverage/hackerrank$maximum_element.coverage" NAME="maximum-element Coverage Results" MODIFIED="1482516505533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructures/stacks" />
     <SUITE FILE_PATH="coverage/hackerrank$triangle_quest_2.coverage" NAME="triangle-quest-2 Coverage Results" MODIFIED="1485760111843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/maths" />
+    <SUITE FILE_PATH="coverage/hackerrank$incorrect_regex.coverage" NAME="incorrect-regex Coverage Results" MODIFIED="1485851912651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/errors-exceptions" />
     <SUITE FILE_PATH="coverage/hackerrank$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1485761145947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/itertools" />
-    <SUITE FILE_PATH="coverage/hackerrank$find_a_string.coverage" NAME="find-a-string Coverage Results" MODIFIED="1485756926405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$most_commons.coverage" NAME="most-commons Coverage Results" MODIFIED="1485850798652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/collections" />
-    <SUITE FILE_PATH="coverage/hackerrank$py_check_subset.coverage" NAME="py-check-subset Coverage Results" MODIFIED="1485020792562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
     <SUITE FILE_PATH="coverage/hackerrank$sock_merchant.coverage" NAME="sock-merchant Coverage Results" MODIFIED="1484801947516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
     <SUITE FILE_PATH="coverage/hackerrank$bon_appetit.coverage" NAME="bon-appetit Coverage Results" MODIFIED="1484802489006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/implementation" />
-    <SUITE FILE_PATH="coverage/hackerrank$polar_coordinates__1_.coverage" NAME="polar-coordinates (1) Coverage Results" MODIFIED="1485021647939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/maths" />
     <SUITE FILE_PATH="coverage/hackerrank$python_string_formatting.coverage" NAME="python-string-formatting Coverage Results" MODIFIED="1485757998833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/strings" />
     <SUITE FILE_PATH="coverage/hackerrank$polar_coordinates.coverage" NAME="polar-coordinates Coverage Results" MODIFIED="1485021498020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/math" />
     <SUITE FILE_PATH="coverage/hackerrank$calendar_module.coverage" NAME="calendar-module Coverage Results" MODIFIED="1485762478376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/date-and-time" />
-    <SUITE FILE_PATH="coverage/hackerrank$py_check_strict_superset.coverage" NAME="py-check-strict-superset Coverage Results" MODIFIED="1485020620992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/sets" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -73,21 +71,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="most-commons.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/collections/most-commons.py">
+      <file leaf-file-name="exceptions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/errors-exceptions/exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word-order.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/collections/word-order.py">
+      <file leaf-file-name="incorrect-regex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="126">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -121,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/implementation/sock-merchant.py" />
-        <option value="$PROJECT_DIR$/algorithms/implementation/bon-appetit.py" />
         <option value="$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py" />
         <option value="$PROJECT_DIR$/algorithms/implementation/strange-advertising.py" />
         <option value="$PROJECT_DIR$/algorithms/implementation/save-the-prisoner.py" />
@@ -172,6 +168,8 @@
         <option value="$PROJECT_DIR$/python/collections/py-collections-ordereddict.py" />
         <option value="$PROJECT_DIR$/python/collections/most-commons.py" />
         <option value="$PROJECT_DIR$/python/collections/word-order.py" />
+        <option value="$PROJECT_DIR$/python/errors-exceptions/exceptions.py" />
+        <option value="$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py" />
       </list>
     </option>
   </component>
@@ -244,7 +242,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
+              <option name="myItemId" value="errors-exceptions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,43 +258,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.word-order">
-    <configuration default="false" name="collections-counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/collections" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/collections/collections-counter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="defaultdict-tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/collections" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/collections/defaultdict-tutorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.incorrect-regex">
     <configuration default="false" name="py-collections-namedtuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,6 +309,42 @@
       <module name="hackerrank" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/collections/word-order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/errors-exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/errors-exceptions/exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="incorrect-regex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/errors-exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -566,19 +564,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.collections-counter" />
-      <item index="1" class="java.lang.String" itemvalue="Python.defaultdict-tutorial" />
-      <item index="2" class="java.lang.String" itemvalue="Python.py-collections-namedtuple" />
-      <item index="3" class="java.lang.String" itemvalue="Python.most-commons" />
-      <item index="4" class="java.lang.String" itemvalue="Python.word-order" />
+      <item index="0" class="java.lang.String" itemvalue="Python.py-collections-namedtuple" />
+      <item index="1" class="java.lang.String" itemvalue="Python.most-commons" />
+      <item index="2" class="java.lang.String" itemvalue="Python.word-order" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exceptions" />
+      <item index="4" class="java.lang.String" itemvalue="Python.incorrect-regex" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.word-order" />
-        <item index="1" class="java.lang.String" itemvalue="Python.most-commons" />
-        <item index="2" class="java.lang.String" itemvalue="Python.py-collections-namedtuple" />
-        <item index="3" class="java.lang.String" itemvalue="Python.defaultdict-tutorial" />
-        <item index="4" class="java.lang.String" itemvalue="Python.collections-counter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.incorrect-regex" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exceptions" />
+        <item index="2" class="java.lang.String" itemvalue="Python.word-order" />
+        <item index="3" class="java.lang.String" itemvalue="Python.most-commons" />
+        <item index="4" class="java.lang.String" itemvalue="Python.py-collections-namedtuple" />
       </list>
     </recent_temporary>
   </component>
@@ -778,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485848614060</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Collections">
+      <created>1485851496523</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1485851496523</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -814,7 +819,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://www.hackerrank.com/challenges/designer-pdf-viewer" />
     <MESSAGE value="https://www.hackerrank.com/challenges/kangaroo&#10;" />
     <MESSAGE value="https://www.hackerrank.com/challenges/between-two-sets" />
     <MESSAGE value="https://www.hackerrank.com/challenges/divisible-sum-pairs" />
@@ -839,7 +843,8 @@
     <MESSAGE value="Python math" />
     <MESSAGE value="Iterators" />
     <MESSAGE value="Date and timeq" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date and timeq" />
+    <MESSAGE value="Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -859,25 +864,11 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/implementation/strange-advertising.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/implementation/beautiful-days-at-the-movies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/implementation/save-the-prisoner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1214,6 +1205,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/collections/word-order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/collections/most-commons.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1222,10 +1221,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/collections/word-order.py">
+    <entry file="file://$PROJECT_DIR$/python/errors-exceptions/exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="36" />
+          <caret line="4" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/errors-exceptions/incorrect-regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding />
         </state>
       </provider>
